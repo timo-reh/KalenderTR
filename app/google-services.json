@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "735982065164",
+    "project_id": "login-register-c8794",
+    "storage_bucket": "login-register-c8794.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735982065164:android:99c6a03e3473879d788029",
+        "android_client_info": {
+          "package_name": "com.example.hwrkalender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735982065164-vb2q03m42j6h5ant81vlkdsp94kc430v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6uiykI4ySRJSj900HIpDARAiqE339Opg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735982065164-vb2q03m42j6h5ant81vlkdsp94kc430v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735982065164:android:5eaed0cc00b73bd3788029",
+        "android_client_info": {
+          "package_name": "com.example.kalendertr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735982065164-vb2q03m42j6h5ant81vlkdsp94kc430v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6uiykI4ySRJSj900HIpDARAiqE339Opg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735982065164-vb2q03m42j6h5ant81vlkdsp94kc430v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
